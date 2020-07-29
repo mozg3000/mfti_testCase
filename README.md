@@ -1,3 +1,13 @@
+Реализовано:
+проект реакта с редаксом и роутом,
+с api https://randomuser.me/api/?results=10
+берется 10 пользователей и сохраняются в сторэдж.
+кнопка Delete удаляет пользователя из хранилища (id приходят не унифицированные и повторяющиеся поэтому удаление не всегда корректно).
+кнопка Edit ведёт на страницу редактирования.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
